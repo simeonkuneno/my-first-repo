@@ -1,0 +1,14 @@
+﻿# Environment and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Dependencies (added in later weeks)
+node_modules/
+venv/
+__pycache__/
